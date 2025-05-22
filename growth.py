@@ -24,8 +24,3 @@
 # data analysis, 
 # section C=measure of dispertion , percentile and quartile ,interquatile range,IQR,lower fence and higher fence 
 
-import numpy as np
-
-arr = np.array([[10, 25, 30, 45, 50, 65, 70, 85]])
-x=arr>50
-print(x)
