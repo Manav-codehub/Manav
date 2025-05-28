@@ -1,4 +1,1 @@
-def square(x):
-    return x*x
-
-print(square(2))
+print(1)
